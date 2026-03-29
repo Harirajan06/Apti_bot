@@ -1,15 +1,5 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual environments
-.venv/
-venv/
-ENV/
-
-# OS
-.DS_Store
-
-# Secrets
 .env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
